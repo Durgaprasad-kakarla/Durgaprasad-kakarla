@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 💬 Ask me about **Machine Learning,Deep Learning**
+- 💬 Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Computer Vision**
 
 - 📫 How to reach me **kakarladuragaprasad92003@gmail.com**
 
