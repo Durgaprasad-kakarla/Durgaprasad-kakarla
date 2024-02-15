@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Live Video Captioning and Audio Synthesis Project](https://github.com/Durgaprasad-kakarla/Live-Video-Captioning-and-Audio-Synthesis-)
-
 - 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
